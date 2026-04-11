@@ -1,0 +1,37 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "Fitness traker and the new",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunvermaa40-lang/Fitnesse-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunvermaa40-lang/Fitnesse-tracker/issues"
+  },
+  "homepage": "https://github.com/brunvermaa40-lang/Fitnesse-tracker#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0",
+    "next": "^16.2.3",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  },
+  "devDependencies": {
+    "@types/node": "25.6.0",
+    "@types/react": "19.2.14",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^16.2.3",
+    "typescript": "6.0.2"
+  }
+}
